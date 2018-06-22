@@ -1,1 +1,1 @@
-First file in GIT QA Mastery repository
+First file in GIT QA Mastery repositor
