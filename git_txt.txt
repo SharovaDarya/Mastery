@@ -1,1 +1,14 @@
-First file in GIT QA Mastery repositor
+First file in GIT QA Mastery repository
+Why vim is so complicated?
+command mode:
+i - for insert from 1-char-before-cursor-position
+[esc] for command mode
+a - for insert from cursor-position
+o - for insert from the next line 
+x - for deleting one char(like [delete])
+dd - for deleting lines
+dx - for deleting words
+
+:wq! or ZZ - for write-exit
+:q! - for exit without changes
+
